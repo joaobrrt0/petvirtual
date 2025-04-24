@@ -9,6 +9,8 @@ Este é um projeto de simulação de um **Tamagotchi Virtual** usando **JavaScri
 - **Passeio**: Levar o Tamagotchi para passear aumenta a felicidade.
 - **Trocar de roupa**: O Tamagotchi pode mudar seu "look" (emoji de animal).
 - **Fome e Felicidade**: O Tamagotchi perde felicidade e ganha fome a cada 10 segundos.
+- **Apelido**: O Tamagotchi pode mudar seu nome quantas vezes você quiser.
+
 
 ## Requisitos
 
